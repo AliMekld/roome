@@ -15,7 +15,9 @@ void main(List<String> args) {
   runApp(
     new MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Explore(),
+      // log page is the 
+   ome: LogPage(),
+
     ),
   );
 }
